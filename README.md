@@ -1,4 +1,5 @@
 daily_coding_problem
+===
 
 A collection of solved coding problems from [Daily Coding Problem](https://www.dailycodingproblem.com/).
 I wanted to improve my javascript skills and thought solving small-scale coding problems would be the best approach for me.
