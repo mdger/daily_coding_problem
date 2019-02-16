@@ -8,3 +8,4 @@ Currently using:
 - JavaScript as the main programming language
 - Jest for testing
 - NPM / Node.js for managing module dependencies
+- VS Code editor
